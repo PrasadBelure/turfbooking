@@ -5,6 +5,8 @@ This project is a **Turf Booking System** that allows users to browse available 
 
 ## Features
 - View a list of available turfs with detailed information.
+- Filter the turfs according to area . 
+- Sort the turfs according to price . 
 - Check availability for specific time slots.
 - Book turfs for sports like Cricket, Football, and Badminton.
 - Upload payment proof as part of the booking process.
